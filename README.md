@@ -33,6 +33,7 @@ This app is a budget tracker where you can enter deposits and expenses with a de
 ## Technologies
 - Node.js
 - Express.js
+- MongoDB
 - Web Manifest
 - Service-worker
 - IndexedDB
