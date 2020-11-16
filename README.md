@@ -7,7 +7,7 @@ Budget tracker with offline capabilities.
 ## Description 
 This PWA application utilizes Node, Express, a web manifest, service-worker, and IndexedDB to create a budget tracker that can run when online and offline. This application is deployed using Heroku.
 
-Deployed Application: https://stark-journey-93881.herokuapp.com/
+Deployed Application: https://fathomless-oasis-92855.herokuapp.com/ 
 
 Github Repository: https://github.com/miadehaan/Budget_Tracker
 
